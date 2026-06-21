@@ -1,6 +1,6 @@
 # ☁️ Day 3 – Azure Architecture (Regions, Availability Zones & Resource Hierarchy)
 
-📅 Date: 22 June 2026
+📅 Date: 21 June 2026
 
 ---
 
